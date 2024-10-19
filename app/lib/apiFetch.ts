@@ -43,8 +43,8 @@ const apiFetch: APIFetch = {
      
       return results;
 
-    } catch (error: any) {
-      console.log(error.reponse);
+    } catch (error) {
+      console.log(error);
 
       return {} as Movies
     }

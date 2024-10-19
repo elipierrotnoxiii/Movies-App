@@ -1,5 +1,5 @@
 import { SVGIcon } from "@/app/types";
-import { FC ,SVGProps } from "react";
+import { FC  } from "react";
 
 
 

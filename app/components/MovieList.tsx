@@ -1,6 +1,6 @@
 import { FC } from "react"
 import { Movies } from "../types"
-import {Card, CardHeader, CardBody, CardFooter, Image, Button} from "@nextui-org/react";
+import {Card, CardFooter, Image} from "@nextui-org/react";
 
 import Link from "next/link";
 
